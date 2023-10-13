@@ -1,4 +1,8 @@
 #!/bin/bash
+# This script calculates the simple interest on a given loan.
+
+# Authors:
+# * codespencer30
 
 # Calculate simple interest
 
